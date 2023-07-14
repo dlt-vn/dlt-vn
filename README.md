@@ -25,8 +25,8 @@
 
 ### Estatísticas do GitHub
 
-| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dlt-vn&show_icons=true&theme=gotham"> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlt-vn&size_weight=0.5&count_weight=0.5"> |
-|---|---|
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dlt-vn&show_icons=true&theme=gotham)
+![Estatísticas do Linguas](https://github-readme-stats.vercel.app/api/top-langs/?username=dlt-vn&size_weight=0.5&count_weight=0.5)
 
 
 
