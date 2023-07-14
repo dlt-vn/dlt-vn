@@ -1,16 +1,34 @@
-### Hi there 👋
+<link href="style.css" rel="stylesheet"></link>
 
-<!--
-**dlt-vn/dlt-vn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, meu nome é Dalto!
 
-Here are some ideas to get you started:
+<!-- ### Sobre mim -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- ### Projetos
+- [Projeto 1](link_projeto_1): Breve descrição do projeto.
 -->
+
+<!-- ### Habilidades
+- Linguagens de programação: Python, JavaScript, Java
+- Frameworks: Django, React, Spring Boot
+- Banco de dados: MySQL, MongoDB
+- Controle de versão: Git, GitHub
+-->
+
+### Contato
+- Email: daltodeluca@gmail.com
+- LinkedIn: [Dalto de Luca](https://www.linkedin.com/in/dalto-de-luca-626b47225/)
+
+<!-- ### Contribuições
+- [Nome do projeto](link_projeto): Descrição da sua contribuição.
+-->
+
+### Estatísticas do GitHub
+
+| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dlt-vn&show_icons=true&theme=gotham"> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlt-vn&size_weight=0.5&count_weight=0.5"> |
+|---|---|
+
+
+
+
+
